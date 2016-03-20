@@ -1,0 +1,28 @@
+name: DarylDancer
+favicon: null
+layout_spectrum: 0.9187220502644777
+typography_spectrum: 0.7151447087526321
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.11276533803902566
+  lightness: 0.3037523047532886
+  saturation: 0.4894669170025736
+  rhythmicContrast: 0.9784373508300632
+purpose: []
